@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zandvoort-inredning-nacka.carlzzon121.chatgpt.site/sitemap.xml
